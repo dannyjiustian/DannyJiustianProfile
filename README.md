@@ -1,5 +1,5 @@
 <p align="center">
-  <img id="img-profile" src="https://github.com/dannyjiustian/DannyJiustianProfile/assets/26474898/25fb0f29-c621-46ea-88ec-289a4baba907" height="200" width="auto"/>
+  <img src="https://github.com/dannyjiustian/DannyJiustianProfile/assets/26474898/bc00d06b-534e-4f16-9546-68b5b5fe9e76" height="200" width="auto"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://github.com/dannyjiustian/DannyJiustianProfile/assets/26474898/b55e4edb-eaaa-4381-b8e2-f45d25167d8a" width="30px">, I'm Danny Jiustian </h1>
