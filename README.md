@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dannyjiustian/DannyJiustianProfile/assets/26474898/25fb0f29-c621-46ea-88ec-289a4baba907" height="200" />
+  <img id="img-profile" src="https://github.com/dannyjiustian/DannyJiustianProfile/assets/26474898/25fb0f29-c621-46ea-88ec-289a4baba907" height="200" width="auto"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://github.com/dannyjiustian/DannyJiustianProfile/assets/26474898/b55e4edb-eaaa-4381-b8e2-f45d25167d8a" width="30px">, I'm Danny Jiustian </h1>
@@ -33,17 +33,27 @@
     </i>
   </b>
 </p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="250" width="auto" alt="GIF" src="https://github.com/dannyjiustian/DannyJiustianProfile/assets/26474898/dd528fa0-d76e-49e6-ac1b-fab106cbd6f7">
+</a>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dannyjiustian&label=Profile%20views&color=0e75b6&style=flat" alt="dannyjiustian" />
 </p>
-<a target="_blank" align="center">
-  <img style="border-radius: 50%;" align="right" top="500" height="250" witdh="auto" alt="GIF" src="https://github.com/dannyjiustian/DannyJiustianProfile/assets/26474898/dd528fa0-d76e-49e6-ac1b-fab106cbd6f7">
-</a>
 <p align="left">
   <a href="https://instagram.com/dannyjiustian" target="blank">
     <img src="https://img.shields.io/twitter/follow/dannyjiustian?logo=instagram&style=for-the-badge" alt="dannyjiustian" />
   </a>
-</p> - 🌱 I’m currently Working on System Point of Sale (POS) by Djie's Kitchen - 🤝 I’m available for freelancing. - 🌱 I’m currently focus learning Backend Developer (NodeJS) - 📫 How to reach me **danny.djie72@gmail.com** - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1awNirU30Nff0JwXW-bZhQPtDqhvaXKTv/view" target="blank">Curriculum Vitae</a>
+</p>
+
+- 🌱 I’m currently Working on System Point of Sale (POS) by Djie's Kitchen
+
+- 🤝 I’m available for freelancing.
+
+- 🌱 I’m currently focus learning Backend Developer (NodeJS)
+
+- 📫 How to reach me **danny.djie72@gmail.com**
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1awNirU30Nff0JwXW-bZhQPtDqhvaXKTv/view" target="blank">Curriculum Vitae</a>
 <br />
 <div id="user-content-toc">
   <ul align="center">
@@ -55,6 +65,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,tailwind,figma,dart,flutter,php,laravel,nodejs,express,java,mongodb,mysql,firebase,postman,arduino,c,cpp,git,github,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,tailwind,figma,dart,flutter,php,laravel,nodejs,express,java,mongodb,mysql,firebase,postman,arduino,c,cpp,git,github,vscode&perline=10" />
   </a>
 </p>
